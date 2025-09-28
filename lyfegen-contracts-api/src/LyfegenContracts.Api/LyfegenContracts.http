@@ -1,0 +1,6 @@
+@LyfegenContracts_HostAddress = http://localhost:5128
+
+GET {{LyfegenContracts_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
